@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/EkartApiGateway/EkartApiGateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EkartCartService/EkartCartService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EkartEureka/EkartEureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EkartOrderService/EkartOrderService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EkartProductService/EkartProductService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EkartUserService/EkartUserService/src/main/java" charset="UTF-8" />
+  </component>
+</project>

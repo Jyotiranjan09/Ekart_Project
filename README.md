@@ -1,2 +1,1 @@
-This is a Ekart Project <br>
-Microservices.
+This is a Ekart Project.

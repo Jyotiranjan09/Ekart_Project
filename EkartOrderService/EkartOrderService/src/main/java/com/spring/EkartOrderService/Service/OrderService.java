@@ -11,6 +11,7 @@ import org.springframework.web.client.RestTemplate;
 
 import java.util.List;
 
+
 @Service
 public class OrderService {
     @Autowired
@@ -18,6 +19,14 @@ public class OrderService {
 
     @Autowired
     private RestTemplate restTemplate;
+
+
+
+
+
+
+
+
 
     public Order placeOrder(OrderRequest req){
         String url="http://EKARTPRODUCTSERVICE/products/getById/"+req.getProductId();

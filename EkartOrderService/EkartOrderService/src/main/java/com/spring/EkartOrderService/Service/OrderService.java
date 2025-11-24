@@ -21,6 +21,13 @@ public class OrderService {
     private RestTemplate restTemplate;
 
 
+
+
+
+
+
+
+
     public Order placeOrder(OrderRequest req){
         String url="http://EKARTPRODUCTSERVICE/products/getById/"+req.getProductId();
         ResponseEntity<Product> resp =restTemplate.getForEntity(url, Product.class);
